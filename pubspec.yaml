@@ -1,0 +1,10 @@
+name: testable_form_field
+version: 0.0.1
+homepage: https://github.com/ULHT-CM-2024-25/testable-form-field
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
